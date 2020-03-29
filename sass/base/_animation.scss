@@ -1,0 +1,17 @@
+@keyframes moveNavIn {
+  0%{
+    transform: translateX(-200%);
+  }
+  100%{
+    transform: translateX(0);
+  }
+}
+
+@keyframes moveNavAway {
+  0%{
+    transform: translateX(-200%);
+  }
+  100%{
+    transform: translateX(0);
+  }
+}

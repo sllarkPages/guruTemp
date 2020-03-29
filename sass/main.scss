@@ -1,0 +1,18 @@
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/base";
+@import "base/animation";
+
+@import "components/btn";
+@import "components/searchModal";
+
+
+@import "pages/home2";
+@import "pages/home";
+@import "pages/reviewPage";
+
+
+@import "layout/header";
+@import "layout/footer";
+@import "layout/navigation";
